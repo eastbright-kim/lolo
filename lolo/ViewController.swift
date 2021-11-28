@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // 처음
         //브랜치 팜
+        // 메인에서 뭘 바꿤
     }
 
 
